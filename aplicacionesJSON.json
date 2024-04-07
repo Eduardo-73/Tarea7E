@@ -1,0 +1,61 @@
+[ {
+  "codigo" : 1,
+  "nombre" : "app3y",
+  "descripcion" : "Ordenadores",
+  "tamanioKb" : 884.4979827524564,
+  "numDescargas" : 7494
+}, {
+  "codigo" : 2,
+  "nombre" : "app6f",
+  "descripcion" : "Peliculas",
+  "tamanioKb" : 813.2374496287539,
+  "numDescargas" : 11960
+}, {
+  "codigo" : 3,
+  "nombre" : "app7t",
+  "descripcion" : "Coches",
+  "tamanioKb" : 948.542316653888,
+  "numDescargas" : 35974
+}, {
+  "codigo" : 4,
+  "nombre" : "app5s",
+  "descripcion" : "Series",
+  "tamanioKb" : 954.8377164927915,
+  "numDescargas" : 5614
+}, {
+  "codigo" : 5,
+  "nombre" : "app3d",
+  "descripcion" : "Caset",
+  "tamanioKb" : 896.7925933254155,
+  "numDescargas" : 42323
+}, {
+  "codigo" : 6,
+  "nombre" : "app2o",
+  "descripcion" : "Caset",
+  "tamanioKb" : 335.96623652430503,
+  "numDescargas" : 25232
+}, {
+  "codigo" : 7,
+  "nombre" : "app4k",
+  "descripcion" : "Coches",
+  "tamanioKb" : 246.60191296304276,
+  "numDescargas" : 39754
+}, {
+  "codigo" : 8,
+  "nombre" : "app1w",
+  "descripcion" : "Ordenadores",
+  "tamanioKb" : 576.9347295921282,
+  "numDescargas" : 5052
+}, {
+  "codigo" : 9,
+  "nombre" : "app6p",
+  "descripcion" : "Series",
+  "tamanioKb" : 919.3219754016504,
+  "numDescargas" : 21663
+}, {
+  "codigo" : 10,
+  "nombre" : "app6n",
+  "descripcion" : "Institutos",
+  "tamanioKb" : 813.0384695264694,
+  "numDescargas" : 42683
+} ]
